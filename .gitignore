@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+faces/
+att_faces.zip
+
+
 # C extensions
 *.so
 
